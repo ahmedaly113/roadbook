@@ -1,0 +1,48 @@
+{
+	"Images": [
+		{
+			"Id": "popupDialog",
+			"Image": "images/dialogbox.png"
+		}
+	],
+	"Fonts": [
+		{
+			"Id": "titleFont",
+			"Font": "fonts/din-light.ttf",
+			"Size": 40
+		},
+		{
+			"Id": "menuFont",
+			"Font": "fonts/din-medium.ttf",
+			"Size": 40
+		}
+	],
+	"Rects": [
+		{
+			"Id": "groundRect",
+			"Rgba": [98, 102, 34, 255],
+			"W": 768,
+			"H": 60
+		},
+		{
+			"Id": "branchRect",
+			"Rgba": [49, 49, 16, 255],
+			"W": 768,
+			"H": 6
+		}
+	],
+	"Text": [
+		{
+			"Id": "firstStateText",
+			"Font": "titleFont",
+			"Text": "Press Space to Move To Next page",
+			"Rgba": [255, 255, 255, 255]
+		},
+		{
+			"Id": "secondStateText",
+			"Font": "titleFont",
+			"Text": "Press Space Again to Move To Further",
+			"Rgba": [255, 255, 255, 255]
+		}
+	]
+}

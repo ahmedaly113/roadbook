@@ -1,0 +1,52 @@
+{
+	"Scenegraph": {
+		"Id": "root",
+		"W": 384,
+		"H": 610,
+		"Children": [
+			{
+				"Id": "brightness",
+				"Y": 50,
+				"Children": [
+					{
+						"Id": "minBrightnessImage",
+						"Asset": "minBrightnessImage",
+						"Y": 30,
+						"X": 10
+					},
+					{
+						"Id": "maxBrightnessImage",
+						"Asset": "maxBrightnessImage",
+						"Y": 30,
+						"X": 360
+					},
+					{
+						"Id": "brightnessScrollBar",
+						"Asset": "brightnessScrollBar",
+						"Y": 35,
+						"X": 30
+					},
+					{
+						"Id": "scrollBall",
+						"Asset": "scrollBall",
+						"Y": 27,
+						"X": 100
+					}
+
+				]
+			},
+			{
+				"Id": "labelForNextPage",
+				"Asset": "labelForNextPage",
+				"Y": 150,
+				"X": 50
+			},
+			{
+				"Id": "QRcode",
+				"Asset": "QRcode",
+				"Y": 250,
+				"X": 100
+			}
+		]
+	}
+}

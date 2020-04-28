@@ -1,0 +1,50 @@
+{
+    "language": "pt",
+    "messages": [
+        {
+            "id": "Language",
+            "message": "Language",
+            "translation": "Língua"
+        },
+        {
+            "id": "Display Prefs",
+            "message": "Display Prefs",
+            "translation": "Preferências de exibição"
+        },
+        {
+            "id": "Routes",
+            "message": "Routes",
+            "translation": "Rotas"
+        },
+        {
+            "id": "Decimal Point",
+            "message": "Decimal Point",
+            "translation": "Decimal Point"
+        },
+        {
+            "id": "Exit",
+            "message": "Exit",
+            "translation": "Saída"
+        },
+        {
+            "id": "Go Back",
+            "message": "Go Back",
+            "translation": "Volte"
+        },
+        {
+            "id": "Prefs1",
+            "message": "Prefs1",
+            "translation": "Preferência1"
+        },
+        {
+            "id": "Prefs2",
+            "message": "Prefs2",
+            "translation": "Preferência2"
+        },
+        {
+            "id": "Prefs3",
+            "message": "Prefs3",
+            "translation": "Preferência3"
+        }
+    ]
+}

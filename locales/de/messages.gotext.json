@@ -1,0 +1,50 @@
+{
+  "language": "de",
+  "messages": [
+    {
+      "id": "Language",
+      "message": "Language",
+      "translation": "Sprache"
+    },
+    {
+      "id": "Display Prefs",
+      "message": "Display Prefs",
+      "translation": "Einstellungen anzeigen"
+    },
+    {
+      "id": "Routes",
+      "message": "Routes",
+      "translation": "Routen"
+    },
+    {
+      "id": "Decimal Point",
+      "message": "Decimal Point",
+      "translation": "Decimal Point"
+    },
+    {
+      "id": "Exit",
+      "message": "Exit",
+      "translation": "Beenden"
+    },
+    {
+      "id": "Go Back",
+      "message": "Go Back",
+      "translation": "Geh zurück"
+    },
+    {
+      "id": "Prefs1",
+      "message": "Prefs1",
+      "translation": "Einstellungen1"
+    },
+    {
+      "id": "Prefs2",
+      "message": "Prefs2",
+      "translation": "Einstellungen2"
+    },
+    {
+      "id": "Prefs3",
+      "message": "Prefs3",
+      "translation": "Einstellungen3"
+    }
+  ]
+}

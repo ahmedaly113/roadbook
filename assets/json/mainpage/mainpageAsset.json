@@ -1,0 +1,30 @@
+{
+	"Images": [
+		{
+			"Id": "menuCheckMark",
+			"Image": "images/checkmark-30x30.png"
+		},
+		{
+			"Id": "menuCheckMarkHi",
+			"Image": "images/checkmarkHi-30x30.png"
+		}
+	],
+	"Fonts": [
+		{
+			"Id": "titleFont",
+			"Font": "fonts/din-light.ttf",
+			"Size": 30
+		},
+		{
+			"Id": "menuFont",
+			"Font": "fonts/din-medium.ttf",
+			"Size": 30
+		}
+	],
+	"Rects": [
+
+	],
+	"Text": [
+
+	]
+}

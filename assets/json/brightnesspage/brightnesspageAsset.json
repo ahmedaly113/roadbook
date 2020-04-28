@@ -1,0 +1,49 @@
+{
+	"Images": [
+		{
+			"Id": "minBrightnessImage",
+			"Image": "images/brightness0x15.png"
+		},
+		{
+			"Id": "maxBrightnessImage",
+			"Image": "images/brightness1x15.png"
+		},
+		{
+			"Id": "QRcode",
+			"Image": "images/qr-codex200.png"
+		},
+		{
+			"Id": "scrollBall",
+			"Image": "images/scrollBallB-10x30.png"
+		}
+	],
+	"Fonts": [
+		{
+			"Id": "titleFont",
+			"Font": "fonts/din-light.ttf",
+			"Size": 20
+		},
+		{
+			"Id": "menuFont",
+			"Font": "fonts/din-medium.ttf",
+			"Size": 20
+		}
+	],
+	"Rects": [
+		{
+			"Id": "brightnessScrollBar",
+			"Rgba": [0, 0, 0, 255],
+			"W": 320,
+			"H": 6
+		}
+	],
+	"Text": [
+		{
+			"Id": "labelForNextPage",
+			"Font": "titleFont",
+			"Text": "Press space again for main menu!",
+			"Rgba": [0, 0, 0, 255],
+			"bgRgba": [255, 255, 255, 255]
+		}
+	]
+}

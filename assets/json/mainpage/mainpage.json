@@ -1,0 +1,9 @@
+{
+	"Scenegraph": {
+		"Id": "root",
+		"W": 768,
+		"H": 1024,
+		"Children": [
+		]
+	}
+}

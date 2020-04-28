@@ -1,0 +1,68 @@
+{
+    "language": "en",
+    "messages": [
+        {
+            "id": "Language",
+            "message": "Language",
+            "translation": "Language",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Display Prefs",
+            "message": "Display Prefs",
+            "translation": "Display Prefs",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Routes",
+            "message": "Routes",
+            "translation": "Routes",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Decimal Point",
+            "message": "Decimal Point",
+            "translation": "Decimal Point",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Exit",
+            "message": "Exit",
+            "translation": "Exit",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Go Back",
+            "message": "Go Back",
+            "translation": "Go Back",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Prefs1",
+            "message": "Prefs1",
+            "translation": "Prefs1",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Prefs2",
+            "message": "Prefs2",
+            "translation": "Prefs2",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Prefs3",
+            "message": "Prefs3",
+            "translation": "Prefs3",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        }
+    ]
+}
